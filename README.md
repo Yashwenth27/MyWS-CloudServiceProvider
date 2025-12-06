@@ -32,11 +32,17 @@ The project successfully demonstrates the following cloud computing pillars:
 
 ## 📸 Project Screenshots
 
-
-
 * **1. Cockpit Terminal Orchestration:** Proof of running the IaC script from the central console.
+  
+  ![Cockpit-console](cockpit-console.png)
+  ---
 * **2. IAM Service Configuration:** Proof of users and roles defined in Keycloak.
-* **3. S3 Bucket Management:** Proof of public/private buckets and uploaded data in MinIO.
+
+  ![IAM- KeyCloak Service](iam-keycloak.png)
+  ---
+* **3. S3-like Bucket Management:** Proof of public/private buckets and uploaded data in MinIO.
+
+  ![Bucket Storage](bucket-miniio.png)
 
 ## 🚀 Getting Started (Deployment Instructions)
 
