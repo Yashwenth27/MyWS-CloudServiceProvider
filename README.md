@@ -19,7 +19,7 @@ This project simulates the core management and service layers of a public cloud 
 
 This diagram illustrates the separation of concerns, showing the host, the virtualization layer (WSL2), and the services managed by the centralized Cockpit console.
 
-![Architecture Diagram: Windows 11 Host, WSL 2, Docker, Keycloak, MinIO, Multipass, and Cockpit for centralized management.](assets/architecture-diagram.png)
+![Architecture Diagram: Windows 11 Host, WSL 2, Docker, Keycloak, MinIO, Multipass, and Cockpit for centralized management.](architecture.png)
 
 ## 🎯 Key CSP Features Implemented
 
