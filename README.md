@@ -42,7 +42,7 @@ The project successfully demonstrates the following cloud computing pillars:
   ---
 * **3. S3-like Bucket Management:** Proof of public/private buckets and uploaded data in MinIO.
 
-  ![Bucket Storage](bucket-miniio.png)
+  ![Bucket Storage](buckets-miniio.png)
 
 ## 🚀 Getting Started (Deployment Instructions)
 
