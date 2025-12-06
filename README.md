@@ -4,6 +4,12 @@
 
 This project simulates the core management and service layers of a public cloud provider (like AWS or Azure) using open-source tools deployed on a single Windows 11 host with WSL 2 and Docker. This environment demonstrates hands-on experience with Identity (IAM), Object Storage (S3), and Infrastructure-as-a-Service (IaaS) orchestration.
 
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Host OS](https://img.shields.io/badge/OS-Windows%2011-0078D6?logo=windows)](https://www.microsoft.com/en-us/windows)
+[![Virtualization](https://img.shields.io/badge/Layer-WSL%202-0078D6?logo=debian)](https://learn.microsoft.com/en-us/windows/wsl/)
+[![Containerization](https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker)](https://www.docker.com/)
+[![IaC Orchestration](https://img.shields.io/badge/IaC-Bash%20Scripting-4EAA25?logo=gnu-bash)](https://www.gnu.org/software/bash/)
+
 ## 🛠️ Technology Stack
 
 | Category | Component | Role in the Project |
